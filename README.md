@@ -22,7 +22,8 @@ This repository contains a CRUD (Create, Read, Update, Delete) application devel
 3. Run the development server to launch the application locally.
 
 ```shell
-$ git clone https://github.com/your-username/your-repository.git
-$ cd your-repository
+$ git clone https://github.com/PushpRatan/CRUD-app.git
+$ cd CRUD-app
 $ npm install
+$ npm run json-server
 $ npm start
